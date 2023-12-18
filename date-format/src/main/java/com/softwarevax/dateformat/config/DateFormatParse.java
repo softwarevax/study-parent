@@ -1,4 +1,4 @@
-package com.softwarevax.studyparent.config;
+package com.softwarevax.dateformat.config;
 
 import org.springframework.core.annotation.AnnotationUtils;
 import org.springframework.format.annotation.DateTimeFormat;

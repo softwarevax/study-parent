@@ -1,4 +1,4 @@
-package com.softwarevax.studyparent.config;
+package com.softwarevax.dateformat.config;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,4 +1,4 @@
-package com.softwarevax.studyparent.entity;
+package com.softwarevax.returnresult.entity;
 
 import lombok.Data;
 
@@ -11,5 +11,4 @@ public class People {
 
     private Date birthday;
 
-    private School school;
 }

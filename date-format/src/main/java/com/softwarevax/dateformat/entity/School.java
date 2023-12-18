@@ -1,4 +1,4 @@
-package com.softwarevax.studyparent.entity;
+package com.softwarevax.dateformat.entity;
 
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;

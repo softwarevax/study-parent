@@ -1,6 +1,6 @@
-package com.softwarevax.studyparent.controller;
+package com.softwarevax.dateformat.controller;
 
-import com.softwarevax.studyparent.entity.People;
+import com.softwarevax.dateformat.entity.People;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

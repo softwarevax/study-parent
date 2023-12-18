@@ -8,9 +8,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.softwarevax</groupId>
-	<artifactId>date-format</artifactId>
+	<artifactId>return-result</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>date-format</name>
+	<name>return-result</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>
